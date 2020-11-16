@@ -17,10 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/0ctanium" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0ctanium" height="30" width="40" /></a>
 <a href="https://instagram.com/0ctanium" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0ctanium" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/octanium" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="octanium" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/benjamin-lepas-5062461b8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-lepas-5062461b8" height="30" width="40" /></a>
-<a href="https://codepen.io/octanium" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="octanium" height="30" width="40" /></a>
-<a href="https://codesandbox.com/0ctanium" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="0ctanium" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
