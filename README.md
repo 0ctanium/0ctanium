@@ -45,7 +45,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en" alt="0ctanium" /></p>
 
-
+<details>
+ <summary>My coding stats</summary>
+ [![Octanium's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Octanium)](https://wakatime.com/@Octanium)
+</details>
 
 
 
