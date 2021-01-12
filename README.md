@@ -52,14 +52,12 @@
 </details>
 
 
-
-
-# 🔥 My projects
-
-<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PierreG-dev&repo=Hackathon-2020" alt="60-Dozer-2020" /></a>
-<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=0ctanium&repo=octanium.fr" alt="60-Dozer-2020" /></a>
-<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=0ctanium&repo=fast-waiting-list" alt="60-Dozer-2020" /></a>
-
+<h1 align="left">🔥 My projects:</h1>
+<p align="left">
+ <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PierreG-dev&repo=Hackathon-2020" alt="60-Dozer-2020" /></a>
+ <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=0ctanium&repo=octanium.fr" alt="60-Dozer-2020" /></a>
+ <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=0ctanium&repo=fast-waiting-list" alt="60-Dozer-2020" /></a>
+</p>
 
 
 
