@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [my personal website](https://octanium.fr) & [my portfolio](https://benjaminlepas.fr)
 
-- 🌱 I’m currently learning webdesign
+- 🌱 I’m currently learning tailwind
 
-- 🎓 Things I want to try out: FaunaDB & Headless CMS like Strapi/Contentful
+- 🎓 Things I want to try out: FaunaDB
 
 - 👨‍💻 All of my projects are available at [https://octanium.fr](https://octanium.fr)
 
@@ -54,8 +54,9 @@
 
 
 
+# 🔥 My projects
 
-
+<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PierreG-dev&repo=Hackathon-2020" alt="60-Dozer-2020" /></a>
 
 
 
