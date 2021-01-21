@@ -50,6 +50,7 @@
  <summary>✨ My coding stats</summary>
  <a href="https://wakatime.com/@Octanium" target="_blank"><img align="left" alt="Octanium's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Octanium&layout=compact" /></a> 
 </details>
+</br>
 
 
 <h1 align="left">🔥 My projects:</h1>
