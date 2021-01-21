@@ -36,9 +36,9 @@
 <a href="#"><img width="32" height="32" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs"/></a>
 <a href="#"><img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"/></a>
 <a href="#"><img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"/></a>
-<a href="#"><img width="32" height="32" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express"/></a>
+<a href="#"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express"/></a>
 <a href="#"><img width="32" height="32" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql"/></a>
-<a href="#"><img width="32" height="32" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/></a>
+<a href="#"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/></a>
 </p>
 
 
@@ -54,9 +54,7 @@
 
 <h1 align="left">🔥 My projects:</h1>
 <p align="left">
- <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PierreG-dev&repo=Hackathon-2020" alt="60-Dozer-2020" /></a>
- <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=0ctanium&repo=octanium.fr" alt="60-Dozer-2020" /></a>
- <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=0ctanium&repo=fast-waiting-list" alt="60-Dozer-2020" /></a>
+ <a href="https://github.com/Hackathon-60-Dozer/Hackathon-2020"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020" alt="60-Dozer-2020" /></a>
 </p>
 
 
