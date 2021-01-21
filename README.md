@@ -50,13 +50,10 @@
  <summary>✨ My coding stats</summary>
  <a href="https://wakatime.com/@Octanium" target="_blank"><img align="left" alt="Octanium's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Octanium&layout=compact" /></a> 
 </details>
-</br>
 
 
 <h1 align="left">🔥 My projects:</h1>
-<p align="left">
- <a href="https://github.com/Hackathon-60-Dozer/Hackathon-2020"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020" alt="60-Dozer-2020" /></a>
-</p>
+<a href="https://github.com/Hackathon-60-Dozer/Hackathon-2020"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020" alt="60-Dozer-2020" /></a>
 
 
 
