@@ -6,15 +6,13 @@
 
 <a href="#"><img src="https://novatorem.octanium.vercel.app/api/spotify" alt="Spotify"/></a>
 
-- 🔭 I’m currently working on [my personal website](https://octanium.fr) & [my portfolio](https://benjaminlepas.fr)
+- 🔭 I’m currently working on [a random project](https://github.com/0ctanium/planning-poker)
 
-- 🌱 I’m currently learning tailwind
+- 🌱 I’m currently learning golang
 
-- 🎓 Things I want to try out: FaunaDB
+- 🎓 Things I want to try out: blockchains
 
-- 👨‍💻 All of my projects are available at [https://octanium.fr](https://octanium.fr)
-
-- 🥅 My current goal: Use github more often 
+- 🥅 My current goal: Improve my git workflows
 
 - 📫 How to reach me: **mail@octanium.fr**
 
@@ -22,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/0ctanium" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0ctanium" height="32" width="40" /></a>
 <a href="https://instagram.com/0ctanium" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0ctanium" height="32" width="32" /></a>
-<a href="https://linkedin.com/in/benjamin-lepas-5062461b8" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-lepas-5062461b8" height="32" width="40" /></a>
+<a href="https://linkedin.com/in/benjaminlepas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminlepas" height="32" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
