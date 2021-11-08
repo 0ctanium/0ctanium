@@ -16,14 +16,14 @@
 
 - 📫  How to reach me: **mail@octanium.fr**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0ctanium" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0ctanium" height="32" width="40" /></a>
 <a href="https://instagram.com/0ctanium" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0ctanium" height="32" width="32" /></a>
 <a href="https://linkedin.com/in/benjaminlepas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminlepas" height="32" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="#"><img width="32" height="32" src="webstorm.png" alt="webstorm"/></a>
 <a href="#"><img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5"/></a>
@@ -44,13 +44,12 @@
 
 <a href="#">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en" alt="0ctanium" /></a>
 
-<details>
- <summary>✨ My coding stats</summary>
- <a href="https://wakatime.com/@Octanium" target="_blank"><img align="center" alt="Octanium's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Octanium&layout=compact" /></a> 
-</details>
+<h3 align="left">✨ My coding stats</h3>
+<p align="left">
+<a href="https://wakatime.com/@Octanium" target="_blank"><img align="center" alt="Octanium's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Octanium&layout=compact" /></a> 
 
 
-<h1 align="left">🔥 My projects:</h1>
+<h2 align="left">🔥 My projects:</h1>
 <a href="https://github.com/Hackathon-60-Dozer/Hackathon-2020"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020" alt="60-Dozer-2020" /></a>
 
 
