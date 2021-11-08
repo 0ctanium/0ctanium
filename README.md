@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Octanium</h1>
-<h3 align="center">A French tech student</h3>
+<h3 align="center">A French tech guy</h3>
 
 <p align="left"> <a href="https://twitter.com/0ctanium" target="_blank"><img src="https://img.shields.io/twitter/follow/0ctanium?logo=twitter&style=for-the-badge" alt="0ctanium" /></a> </p>
 <br>
 
 <a href="#"><img src="https://novatorem.octanium.vercel.app/api/spotify" alt="Spotify"/></a>
 
-- 🔭 I’m currently working on [a random project](https://github.com/0ctanium/planning-poker)
+- 🔭  I’m currently working on a fiscal data module project
 
-- 🌱 I’m currently learning golang
+- 🌱  I’m currently learning golang
 
-- 🎓 Things I want to try out: blockchains
+- 🎓  Things I want to try out: blockchains
 
-- 🥅 My current goal: Improve my git workflows
+- 🥅  My current goal: Improve my git workflows
 
-- 📫 How to reach me: **mail@octanium.fr**
+- 📫  How to reach me: **mail@octanium.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
