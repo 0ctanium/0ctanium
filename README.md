@@ -31,7 +31,6 @@
 <a href="#"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/></a>
 </p>
 
-
 <a href="#">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=0ctanium&show_icons=true&locale=en&layout=compact&theme=dark">
@@ -45,6 +44,11 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en&theme=default" alt="0ctanium">
     </picture>
 </a>
+
+
+<h2 align="left">Me codding activity:</h3>
+<a href="https://wakatime.com/@Octanium"><img src="https://wakatime.com/share/@Octanium/81420a7f-0a75-44bb-88df-596a6bcb7de5.svg" alt="Activity"/></a>
+
 
 <h3 align="left">✨ My coding stats</h3>
 <p align="left">
