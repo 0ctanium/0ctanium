@@ -46,7 +46,7 @@
 </a>
 
 
-<h2 align="left">Me codding activity:</h3>
+<h2 align="left">My codding activity:</h3>
 <a href="https://wakatime.com/@Octanium"><img src="https://wakatime.com/share/@Octanium/81420a7f-0a75-44bb-88df-596a6bcb7de5.svg" alt="Activity"/></a>
 
 
