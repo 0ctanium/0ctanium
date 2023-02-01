@@ -61,7 +61,7 @@
   
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020&theme=dark">
-      <img align="center" src="" alt="60-Dozer-2020" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020&theme=default">
+      <img align="center" alt="60-Dozer-2020" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020&theme=default">
     </picture>
 </a>
 
