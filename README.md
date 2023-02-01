@@ -32,17 +32,22 @@
 </p>
 
 
-<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ctanium&show_icons=true&locale=en&layout=compact" alt="0ctanium" /></a>
+<a href="#">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=0ctanium&show_icons=true&locale=en&layout=compact&theme=dark">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ctanium&show_icons=true&locale=en&layout=compact&theme=default" alt="0ctanium">
+    </picture>
+</a>
 
-<a href="#">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en" alt="0ctanium" /></a>
+<a href="#">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en&theme=dark" alt="0ctanium" /></a>
 
 <h3 align="left">✨ My coding stats</h3>
 <p align="left">
-<a href="https://wakatime.com/@Octanium" target="_blank"><img align="center" alt="Octanium's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Octanium&layout=compact" /></a> 
+<a href="https://wakatime.com/@Octanium" target="_blank"><img align="center" alt="Octanium's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Octanium&layout=compact&theme=dark" /></a> 
 
 
 <h2 align="left">🔥 My projects:</h1>
-<a href="https://github.com/Hackathon-60-Dozer/Hackathon-2020"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020" alt="60-Dozer-2020" /></a>
+<a href="https://github.com/Hackathon-60-Dozer/Hackathon-2020"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020&theme=dark" alt="60-Dozer-2020" /></a>
 
 
 
