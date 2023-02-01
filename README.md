@@ -10,9 +10,9 @@
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0ctanium" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0ctanium" height="32" width="40" /></a>
-<a href="https://instagram.com/0ctanium" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0ctanium" height="32" width="32" /></a>
-<a href="https://linkedin.com/in/benjaminlepas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminlepas" height="32" width="40" /></a>
+<a href="https://twitter.com/0ctanium" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="0ctanium" height="32" width="40" /></a>
+<a href="https://instagram.com/0ctanium" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="0ctanium" height="32" width="32" /></a>
+<a href="https://linkedin.com/in/benjaminlepas" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="benjaminlepas" height="32" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h3>
