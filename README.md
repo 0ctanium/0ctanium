@@ -39,15 +39,31 @@
     </picture>
 </a>
 
-<a href="#">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en&theme=dark" alt="0ctanium" /></a>
+<a href="#">&nbsp;
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en&theme=dark">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en&theme=default" alt="0ctanium">
+    </picture>
+</a>
 
 <h3 align="left">✨ My coding stats</h3>
 <p align="left">
-<a href="https://wakatime.com/@Octanium" target="_blank"><img align="center" alt="Octanium's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Octanium&layout=compact&theme=dark" /></a> 
+<a href="https://wakatime.com/@Octanium" target="_blank">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Octanium&layout=compact&theme=dark">
+      <img  align="center" alt="Octanium's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Octanium&layout=compact&theme=default">
+    </picture>
+  </a> 
 
 
 <h2 align="left">🔥 My projects:</h1>
-<a href="https://github.com/Hackathon-60-Dozer/Hackathon-2020"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020&theme=dark" alt="60-Dozer-2020" /></a>
+<a href="https://github.com/Hackathon-60-Dozer/Hackathon-2020">
+  
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020&theme=dark">
+      <img align="center" src="" alt="60-Dozer-2020" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackathon-60-Dozer&repo=Hackathon-2020&theme=default">
+    </picture>
+</a>
 
 
 
