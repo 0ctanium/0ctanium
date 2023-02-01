@@ -41,8 +41,8 @@
 
 <a href="#">&nbsp;
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en&theme=dark">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en&theme=default" alt="0ctanium">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en&theme=dark&hide=html">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=0ctanium&show_icons=true&locale=en&theme=default&hide=html" alt="0ctanium">
     </picture>
 </a>
 
