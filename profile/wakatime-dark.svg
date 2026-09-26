@@ -199,7 +199,7 @@
             data-testid="lang-progress"
             x="455.0025000000001"
             y="0"
-            width="8.044500000000001"
+            width="8.091000000000001"
             height="8"
             fill="#cb171e"
           />
@@ -243,7 +243,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 97 hrs 55 mins
+        Other - 97 hrs 57 mins
       </text>
     </g>
   
@@ -257,7 +257,7 @@
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 81 hrs 22 mins
+        YAML - 81 hrs 29 mins
       </text>
     </g>
   
