@@ -18,7 +18,7 @@
 
 ##### I'm listening to
 
-<a href="#"><img src="https://novatorem.octanium.vercel.app/api/spotify" alt="Spotify"/></a>
+<a href="#"><img src="https://novatorem-xi-bice.vercel.app/api/orchestrator" alt="Spotify"/></a>
 
 ### 📈 GitHub stats
 
