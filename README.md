@@ -18,7 +18,12 @@
 
 ##### I'm listening to
 
-<a href="#"><img src="https://novatorem-xi-bice.vercel.app/api/orchestrator" alt="Spotify"/></a>
+<a href="#">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://novatorem-xi-bice.vercel.app/api/orchestrator?show_status=true&background_type=blur_dark">
+    <img  align="center" alt="Octanium's currently listening" src="https://novatorem-xi-bice.vercel.app/api/orchestrator?show_status=true&background_type=blur_light">
+  </picture>
+</a>
 
 ### 📈 GitHub stats
 
